@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asutoshgha
 - 👀 I’m interested in algorithms and machine learning
-- 🌱 I’m currently learning machine learning 
+- 🌱 I’m currently learning machine learning and deeplearning
 - 💞️ I’m looking to collaborate on a research paper and opensource contributions
 - 📫 How to reach me asutoshghanto23@gmail.com
 
